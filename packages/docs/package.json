@@ -60,7 +60,7 @@
     "markdown-it-header-sections": "^1.0.0",
     "markdown-it-prism": "^2.0.5",
     "markdownlint-cli": "^0.23.1",
-    "marked": "^1.1.0",
+    "marked": "^4.0.10",
     "minify-css-string": "^1.0.0",
     "mkdirp": "^1.0.4",
     "raw-loader": "^4.0.1",
